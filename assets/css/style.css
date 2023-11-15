@@ -36,3 +36,13 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+table, thead,td,tr{
+    text-align: center;
+    border: 1px solid;
+}
+thead{
+    background-color: aqua;
+}
+.temp{
+    color:blue
+}
